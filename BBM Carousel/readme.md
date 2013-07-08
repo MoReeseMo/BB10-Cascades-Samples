@@ -16,7 +16,9 @@ The sample code for this application is Open Source under the [Apache 2.0 Licens
 
 The sample was built using the "bbjamcarousel" example located here -> https://github.com/blackberry/Cascades-Community-Samples/tree/master/stumpers/bbjamcarousel
 
-Special thanks to the author of that sample, https://github.com/jlarsby. Thanks also to [Rich Balsewich] (https://twitter.com/OnlineODB) for providing the implementation framework to tie in the BBM invocation code to.
+**Special Thanks**
+[Johan Larsby] (https://github.com/jlarsby), the author of that "bbjamcarousel" sample
+[Rich Balsewich] (https://twitter.com/OnlineODB) for modifying the "bbjamcarousel" sample and providing the implementation framework to tie in the BBM invocation code to
 
 **Applies To**
 
@@ -24,7 +26,7 @@ Special thanks to the author of that sample, https://github.com/jlarsby. Thanks 
 * This sample has been tested using the 10.1.0.1020 and 10.1.0.2006 SDK
 
 
-**Requirements: **
+**Requirements:**
 
 1. BlackBerry 10 Native SDK
 2. BlackBerry 10 smartphone to test
