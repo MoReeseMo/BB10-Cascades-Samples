@@ -1,7 +1,7 @@
 # BBM Carousel
 
 The BBM Carousel example allows the developer to invoke BlackBerry Messenger(BBM)
-using the Invocation Framework.  For devices running 10.1 that are also BlackBerry Balance enabled (see here), the work perimeter only allows for a limited set of BBM features to be invokable. This sample implements those features:
+using the Invocation Framework.  For devices running 10.1 that are also [BlackBerry Balance] (http://us.blackberry.com/business/software/blackberry-balance.html?lpos=us:bb:search:Business&lid=us:bb:search:Business:BlackBerry-Balance-Technology#tab-1) enabled, the work perimeter only allows for a limited set of BBM features to be invokable. This sample implements those features:
 
 - Invite a user to chat 
 - Share text to an individual contact
