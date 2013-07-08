@@ -1,7 +1,7 @@
 # BBM Carousel
 
 The BBM Carousel example allows the developer to invoke BlackBerry Messenger(BBM)
-using the Invocation Framework.  For devices running 10.1 that are also [BlackBerry Balance] (http://us.blackberry.com/business/software/blackberry-balance.html?lpos=us:bb:search:Business&lid=us:bb:search:Business:BlackBerry-Balance-Technology#tab-1) enabled, the work perimeter only allows for a limited set of BBM features to be invokable. This sample implements those features:
+using the [Invocation Framework] (https://developer.blackberry.com/cascades/documentation/device_platform/invocation/invocation_framework.html).  For devices running 10.1 that are also [BlackBerry Balance] (http://us.blackberry.com/business/software/blackberry-balance.html?lpos=us:bb:search:Business&lid=us:bb:search:Business:BlackBerry-Balance-Technology#tab-1) enabled, the work perimeter only allows for a limited set of BBM features to be invokable. This sample implements those features:
 
 - Invite a user to chat 
 - Share text to an individual contact
@@ -11,14 +11,14 @@ using the Invocation Framework.  For devices running 10.1 that are also [BlackBe
 
 The implementation for the invocation of the aforementioned features are in the Carousel.cpp file.
 
-The sample code for this application is Open Source under the [Apache 2.0 License](http://www.apache.org/licenses/LICENSE-2.0.html).
+The sample was built using the "bbjamcarousel" example located [here] (https://github.com/blackberry/Cascades-Community-Samples/tree/master/stumpers/bbjamcarousel)
 
-
-The sample was built using the "bbjamcarousel" example located here -> https://github.com/blackberry/Cascades-Community-Samples/tree/master/stumpers/bbjamcarousel
+The sample code for this application is Open Source under the [Apache 2.0 License](http://www.apache.org/licenses/LICENSE-2.0.html)
 
 **Special Thanks**
-[Johan Larsby] (https://github.com/jlarsby), the author of that "bbjamcarousel" sample
-[Rich Balsewich] (https://twitter.com/OnlineODB) for modifying the "bbjamcarousel" sample and providing the implementation framework to tie in the BBM invocation code to
+
+- [Johan Larsby] (https://github.com/jlarsby), the author of that "bbjamcarousel" sample
+- [Rich Balsewich] (https://twitter.com/OnlineODB) for modifying the "bbjamcarousel" sample and providing the implementation framework to tie in the BBM invocation code to
 
 **Applies To**
 
