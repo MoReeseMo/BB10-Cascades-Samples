@@ -48,7 +48,7 @@ The sample code for this application is Open Source under the [Apache 2.0 Licens
 8. The application will now install and launch on your device. If not, check that your environment is set up correctly [here] (http://developer.blackberry.com/cascades/documentation/getting_started/setting_up.html)
 
 ##Running the example in corporate perimeter 
-**BlackBerry Balance Enabled devices**
+**Steps apply to BlackBerry Balance Enabled devices**
 
 1. Build, sign, and export the project (Create the .bar file)
 2. Add it to the BlackBerry Device Server.
