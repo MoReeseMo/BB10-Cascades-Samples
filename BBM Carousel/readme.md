@@ -17,7 +17,7 @@ The sample code for this application is Open Source under the [Apache 2.0 Licens
 
 **Special Thanks**
 
-- [Johan Larsby] (https://github.com/jlarsby), the author of that "bbjamcarousel" sample
+- [Johan Larsby] (https://github.com/jlarsby) the author of that "bbjamcarousel" sample
 - [Rich Balsewich] (https://twitter.com/OnlineODB) for modifying the "bbjamcarousel" sample and providing the implementation framework to tie in the BBM invocation code to
 
 **Applies To**
@@ -30,9 +30,10 @@ The sample code for this application is Open Source under the [Apache 2.0 Licens
 
 1. BlackBerry 10 Native SDK
 2. BlackBerry 10 smartphone to test
+3. If you intend to test in Corporate Perimeter, you will need a BlackBerry Device Service Server or access to one. (optional)
 
 
-##Running the example: 
+##Running the example in personal perimeter (BlackBerry Balance Enabled devices): 
 
 1. Clone the Sample repository.
 2. Launch BlackBerry 10 Native SDK, and from the File menu, select Import.
@@ -47,5 +48,13 @@ The sample code for this application is Open Source under the [Apache 2.0 Licens
 8. The application will now install and launch on your device if not you might
    have to set up your environment: 
    http://developer.blackberry.com/cascades/documentation/getting_started/setting_up.html
+
+##Running the example in corporate perimeter (BlackBerry Balance Enabled devices):
+
+1. Build, sign, and export the project (Create the .bar file)
+2. Add it to the BlackBerry Device Server.
+3. Add it to a software configuration.
+2. Apply the software configuration to the user account you are testing with. [BlackBerry Device Service Documentation](http://docs.blackberry.com/en/admin/subcategories/?userType=2&category=BlackBerry+Device+Service)
+
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
