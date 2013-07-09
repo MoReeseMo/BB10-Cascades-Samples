@@ -33,7 +33,7 @@ The sample code for this application is Open Source under the [Apache 2.0 Licens
 3. If you intend to test in Corporate Perimeter, you will need a BlackBerry Device Service Server or access to one. (optional)
 
 
-##Running the example in personal perimeter (BlackBerry Balance Enabled devices): 
+##Running the example:
 
 1. Clone the Sample repository.
 2. Launch BlackBerry 10 Native SDK, and from the File menu, select Import.
@@ -45,11 +45,10 @@ The sample code for this application is Open Source under the [Apache 2.0 Licens
    and select Build Project.
 7. In the Project Explorer pane, Right-click the project (for example BBM Carousel) 
    and select Run As > BlackBerry C/C++ Application.
-8. The application will now install and launch on your device if not you might
-   have to set up your environment: 
-   http://developer.blackberry.com/cascades/documentation/getting_started/setting_up.html
+8. The application will now install and launch on your device. If not, check that your environment is set up correctly [here] (http://developer.blackberry.com/cascades/documentation/getting_started/setting_up.html)
 
-##Running the example in corporate perimeter (BlackBerry Balance Enabled devices):
+##Running the example in corporate perimeter 
+**BlackBerry Balance Enabled devices**
 
 1. Build, sign, and export the project (Create the .bar file)
 2. Add it to the BlackBerry Device Server.
